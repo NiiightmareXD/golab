@@ -1,9 +1,15 @@
-# 🌹 Golab
+# 🌹 Golab &emsp; [![Licence]][Licence URL] [![Rust]][repository] [![Bevy]][Bevy URL] [![Multiplayer]][Lightyear URL] [![Sponsors]][Sponsors URL]
 
-![Rust nightly](https://img.shields.io/badge/Rust-nightly-orange?logo=rust)
-![Bevy](https://img.shields.io/badge/Bevy-0.18.1-8A2BE2)
-![Multiplayer](https://img.shields.io/badge/Multiplayer-Lightyear-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+[Licence]: https://img.shields.io/github/license/NiiightmareXD/golab
+[Licence URL]: https://github.com/NiiightmareXD/golab/blob/main/LICENSE
+[Rust]: https://img.shields.io/badge/Rust-nightly-orange?logo=rust
+[repository]: https://github.com/NiiightmareXD/golab
+[Bevy]: https://img.shields.io/badge/Bevy-0.18.1-8A2BE2
+[Bevy URL]: https://bevyengine.org/
+[Multiplayer]: https://img.shields.io/badge/Multiplayer-Lightyear-blue
+[Lightyear URL]: https://github.com/cBournhonesque/lightyear
+[Sponsors]: https://img.shields.io/github/sponsors/NiiightmareXD
+[Sponsors URL]: https://github.com/sponsors/NiiightmareXD
 
 **Golab** is a goofy, cartoonish, open-source multiplayer shooter written in Rust with Bevy — where everything is round, soft, blobby. 🔫🫧🌹
 
