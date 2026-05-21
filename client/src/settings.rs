@@ -98,7 +98,7 @@ impl Default for GraphicsSettings {
             msaa: MsaaSetting::Off,
             shadow_quality: ShadowQualitySetting::High,
             shadow_filtering: ShadowFilteringSetting::Gaussian,
-            ambient_occlusion: AmbientOcclusionSetting::Ultra,
+            ambient_occlusion: AmbientOcclusionSetting::High,
             motion_blur: MotionBlurSetting::High,
         }
     }
