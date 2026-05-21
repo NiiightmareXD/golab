@@ -14,13 +14,9 @@ The name comes from a silly little chain of thoughts:
 ![Golab preview](assets/Github/preview.jpg)
 
 <details>
-  <summary>🎬 Click to watch the gameplay clip</summary>
+<summary>🎬 Click to watch the gameplay clip</summary>
 
-  <br>
-
-  <video src="assets/Github/gameplay.mp4" controls poster="assets/Github/preview.jpg" width="100%">
-    Your browser does not support the video tag. You can watch the gameplay clip here: <a href="assets/Github/gameplay.mp4">gameplay.mp4</a>
-  </video>
+https://github.com/user-attachments/assets/bfba3214-884a-4afa-ab15-57e7effa3ec7
 </details>
 
 ---
