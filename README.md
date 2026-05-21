@@ -178,7 +178,9 @@ Golab uses lovely third-party assets from generous creators. See [CREDITS.md](CR
 
 ## 📜 License
 
-Golab is released under the [MIT License](LICENSE).
+Golab's source code is released under the [MIT License](LICENSE).
+
+Third-party assets are licensed separately by their original creators. See [CREDITS.md](CREDITS.md) for attribution and asset license details.
 
 ---
 
