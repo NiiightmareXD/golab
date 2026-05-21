@@ -1,0 +1,33 @@
+[package]
+name = "client"
+authors.workspace = true
+description.workspace = true
+readme.workspace = true
+edition.workspace = true
+homepage.workspace = true
+keywords.workspace = true
+categories.workspace = true
+license.workspace = true
+repository.workspace = true
+version.workspace = true
+
+[dependencies]
+# Game engine
+bevy = { workspace = true, features = ["exr", "jpeg"] }
+
+# Physics and collision
+avian3d = { workspace = true }
+
+# Networking
+lightyear = { workspace = true }
+
+# Serialization
+serde = { workspace = true }
+
+# Random
+rand = { workspace = true }
+
+golab_shared = { path = "../shared" }
+
+[lints]
+workspace = true

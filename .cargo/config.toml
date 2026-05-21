@@ -1,0 +1,22 @@
+[target.x86_64-pc-windows-msvc]
+linker = "rust-lld.exe"
+rustdocflags = ["-Clinker=rust-lld.exe"]
+
+[build]
+rustflags = ["-C", "target-cpu=native", "-Z", "share-generics=y", "-Z", "threads=0"]
+
+[profile.release]
+panic = "abort"
+lto = true
+codegen-units = 1
+strip = true
+
+[profile.wasm-release]
+inherits = "release"
+opt-level = "s"
+
+[profile.dev]
+opt-level = 1
+
+[profile.dev.package."*"]
+opt-level = 3

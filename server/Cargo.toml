@@ -1,0 +1,22 @@
+[package]
+name = "server"
+authors.workspace = true
+description.workspace = true
+readme.workspace = true
+edition.workspace = true
+homepage.workspace = true
+keywords.workspace = true
+categories.workspace = true
+license.workspace = true
+repository.workspace = true
+version.workspace = true
+
+[dependencies]
+bevy = { workspace = true }
+lightyear = { workspace = true }
+golab_shared = { path = "../shared" }
+serde = { workspace = true }
+rand = { workspace = true }
+
+[lints]
+workspace = true

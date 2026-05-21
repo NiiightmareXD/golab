@@ -1,0 +1,49 @@
+[workspace]
+resolver = "3"
+members = ["client", "server", "shared"]
+
+[workspace.package]
+authors = ["NiiightmareXD"]
+description = "A cool open source shooting game written in Rust with Bevy 🔥"
+readme = "README.md"
+edition = "2024"
+homepage = "https://github.com/NiiightmareXD/golab"
+keywords = ["games", "bevy", "fps"]
+categories = ["games"]
+license = "MIT"
+repository = "https://github.com/NiiightmareXD/golab"
+version = "0.1.0"
+
+[workspace.dependencies]
+# Game engine
+bevy = "0.18.1"
+
+# Physics and collision
+avian3d = "0.6.1"
+
+# Networking
+lightyear = { version = "0.26.4", features = ["netcode", "udp"] }
+
+# Serialization
+serde = { version = "1.0.228", features = ["derive"] }
+
+# Random
+rand = "0.10.1"
+
+# Logging
+log = { version = "*", features = ["max_level_debug", "release_max_level_warn"] }
+
+[workspace.lints.clippy]
+pedantic = { level = "warn", priority = -1 }
+nursery = { level = "warn", priority = -1 }
+cargo = { level = "warn", priority = -1 }
+missing_panics_doc = "allow"
+struct_excessive_bools = "allow"
+missing_errors_doc = "allow"
+cast_possible_truncation = "allow"
+inline_always = "allow"
+too_many_lines = "allow"
+similar_names = "allow"
+multiple_crate_versions = "allow"
+too_many_arguments = "allow"
+needless_pass_by_value = "allow"
