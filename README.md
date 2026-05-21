@@ -159,13 +159,13 @@ If you want to help, good places to start are:
 
 ---
 
-## 🥤 ~~Buy me a coffee~~ Buy me Claude Code
+## 🥤 ~~Buy me a coffee~~ Buy me Claude
 
 If Golab made you smile, helped you learn, or gave you the sudden urge to duel cartoon blobs, you can support the project here:
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor%20the%20blob-ff69b4?logo=github)](https://github.com/sponsors/NiiightmareXD)
 
-Every little bit helps fuel more Rust, more Bevy, more blob polish, and probably more **Claude Code credits** instead of coffee. 🤖💸🌹
+Every little bit helps fuel more Rust, more Bevy, more blob polish, and more **Claude Code credits**. 🤖💸🌹
 
 ---
 
