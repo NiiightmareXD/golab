@@ -139,6 +139,7 @@ golab/
 ├── server/          # Dedicated multiplayer server
 ├── shared/          # Shared protocol, messages, constants
 ├── Cargo.toml       # Workspace config
+├── CREDITS.md       # Third-party asset credits
 └── README.md        # You are here 🌹
 ```
 
@@ -166,6 +167,12 @@ If Golab made you smile, helped you learn, or gave you the sudden urge to duel c
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsor%20the%20blob-ff69b4?logo=github)](https://github.com/sponsors/NiiightmareXD)
 
 Every little bit helps fuel more Rust, more Bevy, more blob polish, and more **Claude Code credits**. 🤖💸🌹
+
+---
+
+## 🙏 Credits
+
+Golab uses lovely third-party assets from generous creators. See [CREDITS.md](CREDITS.md) for attribution and license details.
 
 ---
 
