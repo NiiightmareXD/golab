@@ -3,7 +3,7 @@ linker = "rust-lld.exe"
 rustdocflags = ["-Clinker=rust-lld.exe"]
 
 [build]
-rustflags = ["-C", "target-cpu=native", "-Z", "share-generics=y", "-Z", "threads=0"]
+rustflags = ["-Z", "share-generics=y", "-Z", "threads=0"]
 
 [profile.release]
 panic = "abort"
