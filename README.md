@@ -22,7 +22,7 @@ The name comes from a silly little chain of thoughts:
 <details>
 <summary>🎬 Click to watch the gameplay clip</summary>
 
-https://github.com/user-attachments/assets/bfba3214-884a-4afa-ab15-57e7effa3ec7
+https://github.com/user-attachments/assets/13641e96-2cb7-432f-8baf-5b4d6ce82ddd
 </details>
 
 ---
